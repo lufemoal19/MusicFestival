@@ -1,0 +1,1 @@
+@use "variables";@mixin grid($columnas, $espaciado){display:grid;gap:$espaciado;grid-template-columns:repeat($columnas,1fr)}@mixin resetear-lista{list-style:none;margin:0;padding:0}
