@@ -10,9 +10,7 @@ Welcome to the Music Festival Website project! This project is a showcase of my 
 
 - **Sass for Styling:** Harness the power of Sass to write maintainable and modular stylesheets. The use of variables, mixins, and nested rules ensures a clean and organized styling approach.
 
-- **CSS3 Transitions and Animations:** Bring the website to life with CSS3 transitions and animations. Enhance user interactions and create a visually engaging experience.
-
-- **Interactive JavaScript:** Utilize JavaScript to implement interactive features on the website. From smooth scrolling to dynamic content loading, JavaScript enhances the overall user experience.
+- **JavaScript:** Utilize JavaScript to implement interactive features on the website. From smooth scrolling to dynamic content loading, JavaScript enhances the overall user experience.
 
 ## Getting Started
 
