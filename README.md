@@ -18,7 +18,7 @@ Welcome to the Music Festival Website project! This project is a showcase of my 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/music-festival-website.git
+   git clone https://github.com/lufemoal19/MusicFestival.git
    ```
 
 2. **Install Dependencies:**
@@ -29,19 +29,15 @@ Welcome to the Music Festival Website project! This project is a showcase of my 
 
 3. **Run Gulp:**
    ```bash
-   gulp
+   npx gulp dev
    ```
    This command will initiate the Gulp tasks, watching for changes and compiling assets as needed.
 
 4. **Open in Browser:**
-   Open your browser and navigate to `http://localhost:3000` to view the Music Festival Website.
+   Use liveserver to view the Music Festival Website.
 
 ## Contributing
 
 If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Enjoy building awesome music festival websites! 🎶
